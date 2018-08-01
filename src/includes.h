@@ -19,23 +19,20 @@
 #include <math.h>
 #include <time.h>
 
-/*
 #ifndef __GNUC__
 #include <conio.h>
 #endif
-*/
 
 #ifdef __WIN32__
 #include <windows.h>
 #endif
 
-/*
 #ifdef __GNUC__
 #include <unistd.h>
 #include <termios.h>
 #include <sys/time.h>
 #endif
-*/
+
 
 #include "os_cpu.h"
 #include "os_cfg.h"

@@ -10,8 +10,8 @@ windows平台移植源码归属于：http://www.it.fht-esslingen.de/~zimmerma/so
 进入VS2010文件夹打开工程直接编译运行即可  
 如果编译有错误，注意2个点就行，一个是头文件包含目录，一个链接Winmm.lib
 
-## MINGW编译【暂时运行失败】
-配置好mingw的环境变量后，直接运行MAKE.bat文件即可完成编译。
+## MINGW编译
+暂不支持
 
 ## 运行截图
 
