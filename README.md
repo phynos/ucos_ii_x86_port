@@ -15,7 +15,7 @@ windows平台移植源码归属于：http://www.it.fht-esslingen.de/~zimmerma/so
 ## 运行截图
 
 ### VS2010编译版本运行截图
-![avatar](doc/vs2010.jpg)
+![图片](doc/VS2010.jpg)
 
 ### MINGW编译版本运行截图
 ![暂缺](doc/mingw.jpg)
