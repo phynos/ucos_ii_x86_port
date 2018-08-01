@@ -1,15 +1,16 @@
 ## ucosII嵌入式实时操作系统-windows模拟
-更新信息请查看[github](http://wwww.ddfd.com)
+更新信息请查看[github](https://github.com/phynos/ucos_ii_x86_port)
 
 ## 版权声明
-ucosii源码归属于，网站:https://www.micrium.com  
+ucosii源码归属查看网站:https://www.micrium.com  
 windows平台移植源码归属于：http://www.it.fht-esslingen.de/~zimmerma/software/uCOS-II_WIN32.htm  
 (c) Copyright 2004-... Werner.Zimmermann@fht-esslingen.de
 
 ## VS2010编译
-进入VS2010文件夹打开工程即可
+进入VS2010文件夹打开工程直接编译运行即可  
+如果编译有错误，注意2个点就行，一个是头文件包含目录，一个链接Winmm.lib
 
-## MINGW编译
+## MINGW编译【暂时运行失败】
 配置好mingw的环境变量后，直接运行MAKE.bat文件即可完成编译。
 
 ## 运行截图
